@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E925A58B2051CAEA00069F61 /* drinkinfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E925A58A2051CAEA00069F61 /* drinkinfo.swift */; };
 		E9CB6BE1204FA07D00AD4E97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6BE0204FA07D00AD4E97 /* AppDelegate.swift */; };
 		E9CB6BE3204FA07D00AD4E97 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6BE2204FA07D00AD4E97 /* FirstViewController.swift */; };
 		E9CB6BE5204FA07D00AD4E97 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6BE4204FA07D00AD4E97 /* SecondViewController.swift */; };
@@ -15,6 +16,27 @@
 		E9CB6BED204FA07D00AD4E97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9CB6BEB204FA07D00AD4E97 /* LaunchScreen.storyboard */; };
 		E9CB6BF8204FA07D00AD4E97 /* DrinkapediaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6BF7204FA07D00AD4E97 /* DrinkapediaTests.swift */; };
 		E9CB6C03204FA07D00AD4E97 /* DrinkapediaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6C02204FA07D00AD4E97 /* DrinkapediaUITests.swift */; };
+		E9CB6C15204FAD9300AD4E97 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6C14204FAD9300AD4E97 /* ThirdViewController.swift */; };
+		E9CB6C17204FADD100AD4E97 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9CB6C16204FADD100AD4E97 /* FourthViewController.swift */; };
+		E9FB084D2054C4BA000DFC05 /* DCBorderedTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08352054C4B9000DFC05 /* DCBorderedTextField.swift */; };
+		E9FB084E2054C4BA000DFC05 /* DCMandatoryEmailTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08362054C4B9000DFC05 /* DCMandatoryEmailTextField.swift */; };
+		E9FB084F2054C4BA000DFC05 /* DCMandatoryTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08372054C4B9000DFC05 /* DCMandatoryTextField.swift */; };
+		E9FB08502054C4BA000DFC05 /* DCMandatoryNumberTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08382054C4B9000DFC05 /* DCMandatoryNumberTextField.swift */; };
+		E9FB08512054C4BA000DFC05 /* DCPickerTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08392054C4B9000DFC05 /* DCPickerTextField.swift */; };
+		E9FB08522054C4BA000DFC05 /* DCBaseTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB083A2054C4B9000DFC05 /* DCBaseTextField.swift */; };
+		E9FB08532054C4BA000DFC05 /* DCBorderedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB083C2054C4B9000DFC05 /* DCBorderedButton.swift */; };
+		E9FB08542054C4BA000DFC05 /* DCRoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB083D2054C4B9000DFC05 /* DCRoundedButton.swift */; };
+		E9FB08552054C4BA000DFC05 /* DCBaseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB083E2054C4B9000DFC05 /* DCBaseButton.swift */; };
+		E9FB08562054C4BA000DFC05 /* DCPlaceholderTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08402054C4B9000DFC05 /* DCPlaceholderTextView.swift */; };
+		E9FB08572054C4BA000DFC05 /* DCBaseTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08412054C4B9000DFC05 /* DCBaseTextView.swift */; };
+		E9FB08582054C4BA000DFC05 /* DCBorderedTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08422054C4B9000DFC05 /* DCBorderedTextView.swift */; };
+		E9FB08592054C4BA000DFC05 /* DCBorderedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08452054C4B9000DFC05 /* DCBorderedView.swift */; };
+		E9FB085A2054C4BA000DFC05 /* DCBaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08462054C4B9000DFC05 /* DCBaseView.swift */; };
+		E9FB085B2054C4BA000DFC05 /* DCHairlineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08472054C4B9000DFC05 /* DCHairlineView.swift */; };
+		E9FB085C2054C4BA000DFC05 /* DCCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08482054C4B9000DFC05 /* DCCircleView.swift */; };
+		E9FB085D2054C4BA000DFC05 /* DCDashedBorderedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB08492054C4B9000DFC05 /* DCDashedBorderedView.swift */; };
+		E9FB085E2054C4BA000DFC05 /* DCBaseLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9FB084B2054C4B9000DFC05 /* DCBaseLabel.swift */; };
+		E9FB085F2054C4BA000DFC05 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E9FB084C2054C4B9000DFC05 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E925A58A2051CAEA00069F61 /* drinkinfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drinkinfo.swift; sourceTree = "<group>"; };
 		E9CB6BDD204FA07D00AD4E97 /* Drinkapedia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drinkapedia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9CB6BE0204FA07D00AD4E97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9CB6BE2204FA07D00AD4E97 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +72,28 @@
 		E9CB6BFE204FA07D00AD4E97 /* DrinkapediaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrinkapediaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9CB6C02204FA07D00AD4E97 /* DrinkapediaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkapediaUITests.swift; sourceTree = "<group>"; };
 		E9CB6C04204FA07D00AD4E97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9CB6C14204FAD9300AD4E97 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		E9CB6C16204FADD100AD4E97 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		E9FB08352054C4B9000DFC05 /* DCBorderedTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBorderedTextField.swift; sourceTree = "<group>"; };
+		E9FB08362054C4B9000DFC05 /* DCMandatoryEmailTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCMandatoryEmailTextField.swift; sourceTree = "<group>"; };
+		E9FB08372054C4B9000DFC05 /* DCMandatoryTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCMandatoryTextField.swift; sourceTree = "<group>"; };
+		E9FB08382054C4B9000DFC05 /* DCMandatoryNumberTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCMandatoryNumberTextField.swift; sourceTree = "<group>"; };
+		E9FB08392054C4B9000DFC05 /* DCPickerTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCPickerTextField.swift; sourceTree = "<group>"; };
+		E9FB083A2054C4B9000DFC05 /* DCBaseTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBaseTextField.swift; sourceTree = "<group>"; };
+		E9FB083C2054C4B9000DFC05 /* DCBorderedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBorderedButton.swift; sourceTree = "<group>"; };
+		E9FB083D2054C4B9000DFC05 /* DCRoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCRoundedButton.swift; sourceTree = "<group>"; };
+		E9FB083E2054C4B9000DFC05 /* DCBaseButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBaseButton.swift; sourceTree = "<group>"; };
+		E9FB08402054C4B9000DFC05 /* DCPlaceholderTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCPlaceholderTextView.swift; sourceTree = "<group>"; };
+		E9FB08412054C4B9000DFC05 /* DCBaseTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBaseTextView.swift; sourceTree = "<group>"; };
+		E9FB08422054C4B9000DFC05 /* DCBorderedTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBorderedTextView.swift; sourceTree = "<group>"; };
+		E9FB08432054C4B9000DFC05 /* DCKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DCKit.h; sourceTree = "<group>"; };
+		E9FB08452054C4B9000DFC05 /* DCBorderedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBorderedView.swift; sourceTree = "<group>"; };
+		E9FB08462054C4B9000DFC05 /* DCBaseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBaseView.swift; sourceTree = "<group>"; };
+		E9FB08472054C4B9000DFC05 /* DCHairlineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCHairlineView.swift; sourceTree = "<group>"; };
+		E9FB08482054C4B9000DFC05 /* DCCircleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCCircleView.swift; sourceTree = "<group>"; };
+		E9FB08492054C4B9000DFC05 /* DCDashedBorderedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCDashedBorderedView.swift; sourceTree = "<group>"; };
+		E9FB084B2054C4B9000DFC05 /* DCBaseLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DCBaseLabel.swift; sourceTree = "<group>"; };
+		E9FB084C2054C4B9000DFC05 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +144,13 @@
 		E9CB6BDF204FA07D00AD4E97 /* Drinkapedia */ = {
 			isa = PBXGroup;
 			children = (
+				E9FB08332054C4B9000DFC05 /* DCKit */,
 				E9CB6BE0204FA07D00AD4E97 /* AppDelegate.swift */,
 				E9CB6BE2204FA07D00AD4E97 /* FirstViewController.swift */,
 				E9CB6BE4204FA07D00AD4E97 /* SecondViewController.swift */,
+				E9CB6C14204FAD9300AD4E97 /* ThirdViewController.swift */,
+				E9CB6C16204FADD100AD4E97 /* FourthViewController.swift */,
+				E925A58A2051CAEA00069F61 /* drinkinfo.swift */,
 				E9CB6BE6204FA07D00AD4E97 /* Main.storyboard */,
 				E9CB6BE9204FA07D00AD4E97 /* Assets.xcassets */,
 				E9CB6BEB204FA07D00AD4E97 /* LaunchScreen.storyboard */,
@@ -126,6 +175,73 @@
 				E9CB6C04204FA07D00AD4E97 /* Info.plist */,
 			);
 			path = DrinkapediaUITests;
+			sourceTree = "<group>";
+		};
+		E9FB08332054C4B9000DFC05 /* DCKit */ = {
+			isa = PBXGroup;
+			children = (
+				E9FB08342054C4B9000DFC05 /* UITextFields */,
+				E9FB083B2054C4B9000DFC05 /* UIButtons */,
+				E9FB083F2054C4B9000DFC05 /* UITextViews */,
+				E9FB08432054C4B9000DFC05 /* DCKit.h */,
+				E9FB08442054C4B9000DFC05 /* UIViews */,
+				E9FB084A2054C4B9000DFC05 /* UILabels */,
+				E9FB084C2054C4B9000DFC05 /* Info.plist */,
+			);
+			path = DCKit;
+			sourceTree = "<group>";
+		};
+		E9FB08342054C4B9000DFC05 /* UITextFields */ = {
+			isa = PBXGroup;
+			children = (
+				E9FB08352054C4B9000DFC05 /* DCBorderedTextField.swift */,
+				E9FB08362054C4B9000DFC05 /* DCMandatoryEmailTextField.swift */,
+				E9FB08372054C4B9000DFC05 /* DCMandatoryTextField.swift */,
+				E9FB08382054C4B9000DFC05 /* DCMandatoryNumberTextField.swift */,
+				E9FB08392054C4B9000DFC05 /* DCPickerTextField.swift */,
+				E9FB083A2054C4B9000DFC05 /* DCBaseTextField.swift */,
+			);
+			path = UITextFields;
+			sourceTree = "<group>";
+		};
+		E9FB083B2054C4B9000DFC05 /* UIButtons */ = {
+			isa = PBXGroup;
+			children = (
+				E9FB083C2054C4B9000DFC05 /* DCBorderedButton.swift */,
+				E9FB083D2054C4B9000DFC05 /* DCRoundedButton.swift */,
+				E9FB083E2054C4B9000DFC05 /* DCBaseButton.swift */,
+			);
+			path = UIButtons;
+			sourceTree = "<group>";
+		};
+		E9FB083F2054C4B9000DFC05 /* UITextViews */ = {
+			isa = PBXGroup;
+			children = (
+				E9FB08402054C4B9000DFC05 /* DCPlaceholderTextView.swift */,
+				E9FB08412054C4B9000DFC05 /* DCBaseTextView.swift */,
+				E9FB08422054C4B9000DFC05 /* DCBorderedTextView.swift */,
+			);
+			path = UITextViews;
+			sourceTree = "<group>";
+		};
+		E9FB08442054C4B9000DFC05 /* UIViews */ = {
+			isa = PBXGroup;
+			children = (
+				E9FB08452054C4B9000DFC05 /* DCBorderedView.swift */,
+				E9FB08462054C4B9000DFC05 /* DCBaseView.swift */,
+				E9FB08472054C4B9000DFC05 /* DCHairlineView.swift */,
+				E9FB08482054C4B9000DFC05 /* DCCircleView.swift */,
+				E9FB08492054C4B9000DFC05 /* DCDashedBorderedView.swift */,
+			);
+			path = UIViews;
+			sourceTree = "<group>";
+		};
+		E9FB084A2054C4B9000DFC05 /* UILabels */ = {
+			isa = PBXGroup;
+			children = (
+				E9FB084B2054C4B9000DFC05 /* DCBaseLabel.swift */,
+			);
+			path = UILabels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +351,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9FB085F2054C4BA000DFC05 /* Info.plist in Resources */,
 				E9CB6BED204FA07D00AD4E97 /* LaunchScreen.storyboard in Resources */,
 				E9CB6BEA204FA07D00AD4E97 /* Assets.xcassets in Resources */,
 				E9CB6BE8204FA07D00AD4E97 /* Main.storyboard in Resources */,
@@ -262,9 +379,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9FB08562054C4BA000DFC05 /* DCPlaceholderTextView.swift in Sources */,
+				E9FB08582054C4BA000DFC05 /* DCBorderedTextView.swift in Sources */,
+				E925A58B2051CAEA00069F61 /* drinkinfo.swift in Sources */,
+				E9FB084E2054C4BA000DFC05 /* DCMandatoryEmailTextField.swift in Sources */,
+				E9FB085A2054C4BA000DFC05 /* DCBaseView.swift in Sources */,
+				E9FB085D2054C4BA000DFC05 /* DCDashedBorderedView.swift in Sources */,
+				E9FB085E2054C4BA000DFC05 /* DCBaseLabel.swift in Sources */,
+				E9FB08512054C4BA000DFC05 /* DCPickerTextField.swift in Sources */,
+				E9FB08522054C4BA000DFC05 /* DCBaseTextField.swift in Sources */,
+				E9FB08532054C4BA000DFC05 /* DCBorderedButton.swift in Sources */,
 				E9CB6BE5204FA07D00AD4E97 /* SecondViewController.swift in Sources */,
+				E9FB08552054C4BA000DFC05 /* DCBaseButton.swift in Sources */,
+				E9FB084D2054C4BA000DFC05 /* DCBorderedTextField.swift in Sources */,
 				E9CB6BE1204FA07D00AD4E97 /* AppDelegate.swift in Sources */,
+				E9FB08542054C4BA000DFC05 /* DCRoundedButton.swift in Sources */,
+				E9FB085B2054C4BA000DFC05 /* DCHairlineView.swift in Sources */,
+				E9CB6C15204FAD9300AD4E97 /* ThirdViewController.swift in Sources */,
 				E9CB6BE3204FA07D00AD4E97 /* FirstViewController.swift in Sources */,
+				E9FB08572054C4BA000DFC05 /* DCBaseTextView.swift in Sources */,
+				E9FB08592054C4BA000DFC05 /* DCBorderedView.swift in Sources */,
+				E9FB084F2054C4BA000DFC05 /* DCMandatoryTextField.swift in Sources */,
+				E9FB08502054C4BA000DFC05 /* DCMandatoryNumberTextField.swift in Sources */,
+				E9CB6C17204FADD100AD4E97 /* FourthViewController.swift in Sources */,
+				E9FB085C2054C4BA000DFC05 /* DCCircleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
