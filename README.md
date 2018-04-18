@@ -1,4 +1,4 @@
-# Drinkapedia-for-iOS
+# Drinkapedia for iOS (www.drinkapedia.tech)
 Inspiration
 
 All of us are very serious athletes, so we constantly use apps on our phones to measure water and sugar consumption, but we found that we had to use various apps that all used the fundamental concept: use an algorithm to calculate daily limits. In addition, soon we will reach the drinking age so it is important to monitor our alcohol consumption. So, we decided to create an application and an accompanying website that compiles all of these separate applications together.
