@@ -9,15 +9,7 @@ We use a comprehensive algorithm that calculates the daily limits of an individu
 
 How we built it
 
-We used Android Studio and Unity to make the app and the game, respectively. We used Amazon Web Services to host the website with a .tech domain.
-
-Challenges we ran into
-
-We had multiple issues with the arraylists and with the setup of the website since we were beginners with AWS and Android Studio, but we all worked together and were able to put the app together.
-
-Accomplishments that we're proud of
-
-We are proud of the vast number of things we were able to accomplish in such a short amount of time. We created a fully functioning game, a website, and an app all in one night!
+We used Xcode and Unity to make the app and the game, respectively. We used Amazon Web Services to host the website with a .tech domain.
 
 What's next for Drinkapedia: The App that's better than Wikipedia
 
